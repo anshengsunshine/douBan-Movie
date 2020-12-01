@@ -1,0 +1,10 @@
+<view class='profile'>
+  <view class="profile-img">
+    <open-data type="userAvatarUrl"></open-data>
+  </view>
+  <open-data type="userNickName" class="profile-name"></open-data>
+</view>
+<!-- <button open-type="getUserInfo" bindgetuserinfo="onGotUserInfo">获取用户信息</button> -->
+<view>
+  <text class="tip">正在逐步开发天气预报查询，和垃圾分类查询，敬请期待。</text>
+</view>
